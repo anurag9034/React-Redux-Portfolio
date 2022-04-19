@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMTk5MDg2MTY=",
+      "name": "Twitter_Application_React_Redux",
+      "createdAt": "2022-04-15T09:39:04Z",
+      "url": "https://github.com/anurag9034/TwitterApp-React-Redux",
+      "description": "This application gives you the similar experience of Real Twitter app where a user can login, post tweets and customize their profile.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos-redux"
+        },
+        {
+          "name": "SASS",
+          "iconifyClass": "logos-sass"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjAyMzM3MjM=",
+      "name": "Resume-Generator-React-Node",
+      "createdAt": "2022-04-15T10:15:50Z",
+      "url": "https://github.com/anurag9034/Resume-Generator-React-Node",
+      "description": "This application is built on React.js in the frontend and Node.js in the backend. It is used to generate resume in the PDF format based on user inputs and customizations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjAyMTkxNjk=",
+      "name": "Excursion Product",
+      "createdAt": "2020-02-09T09:16:08Z",
+      "url": "https://github.com/anurag9034/ExcursionProduct",
+      "description": "A Single Page Application that takes the user through an experience that narrows down their search for excursion product using few API's",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Redux",
+          "iconifyClass": "logos-redux"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjAyNDIwNzg=",
+      "name": "Task-Manager_React",
+      "createdAt": "2022-03-10T10:50:49Z",
+      "url": "https://github.com/anurag9034/Task-Manager_React",
+      "description": "This is a task manager application built using ReactJS where a user can add/delete the tasks and set the reminders",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "logos-npm-icon"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyODk4NjQ5ODc=",
+      "name": "FrontEnd-Mini-Projects",
+      "createdAt": "2020-08-24T08:00:11Z",
+      "url": "https://github.com/anurag9034/FrontEnd-Mini-Projects",
+      "description": "Contains all the User stories that you come across in your day to day life.",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "Java Script",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    }
+  ]
+}
