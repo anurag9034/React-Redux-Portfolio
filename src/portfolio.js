@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Anurag K",
   logo_name: "Anurag K",
-  nickname: "<That Vancouver guy/>",
+  nickname: "<That Web guy/>",
   subTitle:
     "A passionate individual who always thrive to work on end to end products that creates impact in the community and always hungry to learn new tech.",
   resumeLink: "#",
