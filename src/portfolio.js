@@ -301,7 +301,7 @@ const experience = {
     {
       title: "Work Experience",
       experiences: [
-        {
+        /*  {
           title: "UI Developer",
           company: "John Hancock Financial",
           company_url: "https://www.johnhancock.com/index.html",
@@ -318,11 +318,10 @@ const experience = {
           company_url: "https://www.johnhancock.com/index.html",
           logo_path: "cap.png",
           duration: "February 2016 - June 2019",
-          // location: "Toronto, Canada",
           description:
             "Worked on server-side scripting JavaScript framework Node.js, Express.js, created Rest API's using  Node.js and connected to MongoDB. Used NPM for Node.js development & server-side packages. Created Single page applications with React using Hooks, redux for stateful management; or using previous React state object plus lifecycle for component's internalize stateful management. Used react - router for routing.",
           color: "#0879bf",
-        },
+        }, */
       ],
     },
     /* {
